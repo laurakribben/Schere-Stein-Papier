@@ -127,7 +127,7 @@ def start_game(filename,player_data):
 
         
 players = dict()
-start_game("dat.csv",players)
+start_game("data.csv",players)
 
 
 
